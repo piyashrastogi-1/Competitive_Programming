@@ -1,3 +1,10 @@
+/*
+        Take as input N, a number.
+        Take N more inputs and store that in an array.
+        Write a recursive function which reverses the array.
+        Print the values of reversed array.
+*/
+
 import java.util.*;
 public class lastIndex {
     public static int lastOccurrence(int [] arr, int end, int m)
